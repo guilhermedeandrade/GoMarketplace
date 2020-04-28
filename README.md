@@ -45,7 +45,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/screenshot.png" width="250" align="center">
+  <img src="images/screenshot.png" width="250">
 </p>
 
 This is the GoStack 11 bootcamp 8th challenge, which is a marketplace app built with React Native, TypeScript and styled-components.
@@ -134,7 +134,7 @@ Project Link: [https://github.com/guilhermedeandrade/gostack-react-native-fundam
 [stars-url]: https://github.com/guilhermedeandrade/gostack-react-native-fundamentals/stargazers
 [issues-shield]: https://img.shields.io/github/issues/guilhermedeandrade/gostack-react-native-fundamentals.svg?style=flat-square
 [issues-url]: https://github.com/guilhermedeandrade/gostack-react-native-fundamentals/issues
-[license-shield]: https://img.shields.io/github/license/guilhermedeandrade/gostack-react-native-fundamentals.svg?style=flat-square
-[license-url]: https://github.com/guilhermedeandrade/gostack-react-native-fundamentals/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/guilhermedeandrade/gostack-react-native-fundamentals?style=flat-square
+[license-url]: https://github.com/guilhermedeandrade/gostack-react-native-fundamentals/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andradedeguilherme
