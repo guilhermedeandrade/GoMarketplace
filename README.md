@@ -44,7 +44,9 @@
 
 ## About The Project
 
-![GoMarketplace Screen Shot][product-screenshot]
+<p align="center">
+  <img src="images/screenshot.png" width="250" align="center">
+</p>
 
 This is the GoStack 11 bootcamp 8th challenge, which is a marketplace app built with React Native, TypeScript and styled-components.
 
@@ -136,4 +138,3 @@ Project Link: [https://github.com/guilhermedeandrade/gostack-react-native-fundam
 [license-url]: https://github.com/guilhermedeandrade/gostack-react-native-fundamentals/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andradedeguilherme
-[product-screenshot]: images/screenshot.png
